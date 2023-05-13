@@ -2,7 +2,7 @@ code.txt
 # MyToken Smart Contract
 
 
-This is a simple Solidity smart contract that creates a token called "MUSHTANG" with the abbreviation "MUSH". It has a total supply that starts at 0, and uses a mapping of addresses to balances to keep track of how many tokens each address holds.
+This is a simple Solidity smart contract that creates a token called "TREES" with the abbreviation "TR". It has a total supply that starts at 0, and uses a mapping of addresses to balances to keep track of how many tokens each address holds.
 
 The contract includes two functions: mint and burn.
 
